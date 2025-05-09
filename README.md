@@ -1,4 +1,4 @@
-## Hi there 👋
+##
 
 <!--
 **hyeon3233/hyeon3233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
