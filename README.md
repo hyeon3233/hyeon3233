@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Hyeon%20IT&fontSize=70)
+[![Git](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=git&logoColor=#F05032)](github.com/Joowon0220/TODO-List](https://github.com/hyeon3233)
