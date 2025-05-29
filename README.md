@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Hyeons%20IT&fontColor=393E46&fontSize=90)
 
-[![GitHub 3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
+![snake gif](https://github.com/hyeon3233/hyeon3233/raw/output/github-contribution-grid-snake.gif)
+
