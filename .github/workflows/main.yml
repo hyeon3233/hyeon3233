@@ -1,14 +1,28 @@
 name: Generate 3D Contribution Graph
 
 on:
-  schedule:
-    - cron: '0 1 * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate 3d contrib
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@v1
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install -r https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/requirements.txt
+
+      - name: Generate graph
+        run: |
+          git clone https://github.com/yoshi389111/github-profile-3d-contrib.git
+          cd github-profile-3d-contrib
+          python main.py --user ${{ github.repository_owner }}
+          cp -r out ../profile-3d-contrib
