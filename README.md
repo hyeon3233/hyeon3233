@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/hyeon3233/hyeon3233/raw/output/github-contribution-grid-snake.gif)
 
+## Skill 📫
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
