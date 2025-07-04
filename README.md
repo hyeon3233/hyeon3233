@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/hyeon3233/hyeon3233/raw/output/github-contribution-grid-snake.gif)
 
-<p align="center"><strong><font size="7">Skill 🧰</font></strong></p>
+<h2 align="center">Skill 🧰</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
